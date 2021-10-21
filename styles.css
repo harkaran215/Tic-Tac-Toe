@@ -1,0 +1,33 @@
+body{
+	background-color: #211F1F;
+}
+
+#main {
+
+	text-align: center;
+
+	font-family: Arial, Helvetica, sans-serif;
+
+	padding-top: 35px;
+
+	color: white;
+
+}
+
+
+h3 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 35px;
+	color: white;
+}
+
+#b1, #b2, #b3, #b4, #b5 , #b6, #b7, #b8, #b9 { 
+		margin: auto;
+	box-sizing: border-box; width: 80px;
+	height: 52px;
+	border: 1px solid gray; border-radius: 6px;
+	font-size: 30px;
+	text-align: center; cursor: pointer;
+
+}
